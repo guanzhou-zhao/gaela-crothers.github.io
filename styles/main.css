@@ -1,17 +1,17 @@
+{!doctype css}
+
 body {
   background:black;
   font-family:Arial;
-  font-color: White;
-}
+  text-align:center;}
 
-h1 {color: Green;
-
-}
+h1 {
+  color:green;}
 
 a { 
- color:blue; 
-}
+ color:blue;}
 
-P {
- padding:10px; 
-}
+footer {
+
+ }
+
