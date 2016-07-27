@@ -2,15 +2,34 @@
 
 body {
   background:black;
-  font-family:Arial;
-  text-align:center;
-  color:white}
+  color:white;
+  align-items:left;
+  border-top;
+}
 
 h1 {
-  color:green;}
+  color:royalblue;
+  font-family: cursive;
+  padding: 15px
+  }
 
-a { 
- color:blue;}
+a {
+ color:Grey;
+  }
 
+.intro {
 
+  }
 
+.image {
+  width: 50%
+}
+
+.content {
+  text-decoration-color: grey;
+  }
+
+.footer {
+  font-family: monospace;
+  padding-top: 15%;
+}
