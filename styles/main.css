@@ -2,7 +2,6 @@
 
 body {
   background:black;
-  color:white;
   align-items:left;
   border-top;
 }
@@ -13,8 +12,12 @@ h1 {
   padding: 15px
   }
 
+h2 {
+  color:green;
+}
+
 a {
- color:Grey;
+ color:grey;
   }
 
 .intro {
@@ -26,7 +29,7 @@ a {
 }
 
 .content {
-  text-decoration-color: grey;
+  
   }
 
 .footer {
