@@ -1,10 +1,14 @@
 {!doctype css}
 
 body {
-  background:black;
+  background: black;
   align-items:left;
-  border-top;
-}
+  color: white;
+  }
+
+p {
+
+  }
 
 h1 {
   color:royalblue;
@@ -14,7 +18,7 @@ h1 {
 
 h2 {
   color:green;
-}
+  }
 
 a {
  color:grey;
@@ -26,13 +30,13 @@ a {
 
 .image {
   width: 50%
-}
+  }
 
 .content {
-  
-  }
+
+    }
 
 .footer {
   font-family: monospace;
   padding-top: 15%;
-}
+  }
